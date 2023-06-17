@@ -1,1 +1,6 @@
-
+- key: home
+  value: home
+- key: about
+  value: about us
+- key: service
+  value: service
