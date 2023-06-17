@@ -1,3 +1,6 @@
-- [Home, ev]
-- [About, hakkında]
-- [Service, hizmet]
+- key: Home
+  value: wef
+- key: About
+  value:  hakkında
+- key: Service
+  value: hizmet
