@@ -1,6 +1,6 @@
-- menuItemObjKey: Home
-  menuItemObjValue: wef
-- menuItemObjKey: About
-  menuItemObjValue:  hakkında
-- menuItemObjKey: Service
-  menuItemObjValue: hizmet
+- key: Home
+  value: wef
+- key: About
+  value:  hakkında
+- key: Service
+  value: hizmet
