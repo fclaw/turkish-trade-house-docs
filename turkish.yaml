@@ -19,11 +19,11 @@ messenger:
   - key: headline
     value: İletişime geçelim
   - key: identity
-    value: ...
+    value: Adın ne
   - key: email
-    value: ...
+    value: E-posta
   - key: body 
-    value: ...
+    value: mesaj yaz
   - key: button
     value: göndermek
 copyright: TELİF HAKKI © 2023 TTH - TÜM HAKLARI SAKLIDIR
