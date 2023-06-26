@@ -17,7 +17,7 @@ menu:
     value: hi̇zmetleri̇mi̇z
 messenger:
   - key: headline
-    value: ...
+    value: İletişime geçelim
   - key: identity
     value: ...
   - key: email
@@ -25,5 +25,5 @@ messenger:
   - key: body 
     value: ...
   - key: button
-    value: ...
+    value: göndermek
 copyright: TELİF HAKKI © 2023 TTH - TÜM HAKLARI SAKLIDIR
