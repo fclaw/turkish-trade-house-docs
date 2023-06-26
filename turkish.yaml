@@ -1,9 +1,9 @@
 page:
   - key: home
-    value: TTH TURKISH TRADE HOUSE is a consultancy and foreign trade company established to support 
-           the development and realization of all foreign trade activities between Turkey - Russia and third countries, and to develop trade and investment relations between countries. 
-           As TTH , our working principle is to ensure that import and export transactions are carried out smoothly and quickly and to provide services in this direction. 
-           For more than 30 years, we have been serving with our knowledge and experience in many countries, especially in Turkey and Russia. 
+    value:  TTH TÜRK TİCARET EVİ, Türkiye - Rusya ve 3. ülkeler arasındaki tüm dış ticaret faaliyetlerinin geliştirilmesine ve gerçekleştirilmesine destek olmak, 
+            ülkeler arasındaki ticaret ve yatırım ilişkilerini geliştirmek amacıyla kurulmuş bir danışmanlık ve dış ticaret şirketidir. 
+            TTH olarak çalışma prensibimiz ithalat ve ihracat işlemlerinin sorunsuz ve hızlı bir şekilde yapılmasını sağlamak ve bu doğrultuda hizmet vermektir. 
+            30 yılı aşkın süredir başta Türkiye ve Rusya olmak üzere birçok ülkede bilgi ve tecrübemizle hizmet vermekteyiz. 
   - key: about
     value: ...
   - key: service
