@@ -19,11 +19,11 @@ messenger:
   - key: headline
     value: Let's get be in touch
   - key: identity
-    value: ...
+    value: What's you name
   - key: email
-    value: ...
+    value: Email
   - key: body 
-    value: ...
+    value: type a message
   - key: button
     value: submit
 copyright: COPYRIGHT © 2023 TTH - ALL RIGHTS RESERVED.  
